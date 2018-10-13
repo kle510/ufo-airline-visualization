@@ -1,6 +1,4 @@
-Kevin Khoi Nam Le
-Khanh Duy Le
-CSCI 599 - Assignment 3
+
 
 
 10 Visualizations 
