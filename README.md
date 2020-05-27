@@ -1,6 +1,8 @@
 
 # 10 UFO Visualizations 
 
+Visualizations of the UFO data in the ufo-analysis repository. This includes relationships with data pertaining to airport distance, mass shootings, and twitter sentiments.
+
 ### 1. Sunburst - Change in UFO Sightings as Airport distance Increases
 <img src="images/visualization_1.png" width="60%" height="60%">
 
